@@ -1,9 +1,9 @@
-name: Deploy to FTP
+name: Deploy Subtree to FTP
 
 on:
   push:
     branches:
-      - limitless-hosting # Replace 'main' with the branch you want to deploy
+      - limitless-hosting # Trigger on pushes to the limitless-hosting subtree branch
 
 jobs:
   deploy:
@@ -14,12 +14,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Deploy via FTP
-      - name: FTP Deploy
+      # Specify the subtree directory to deploy
+      - name: Deploy subtree via FTP
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
           ftp-server: ${{ secrets.FTP_HOST }}
           ftp-username: ${{ secrets.FTP_USERNAME }}
           ftp-password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./ # The directory to upload (default is the root of your repository)
-          server-dir: ${{ secrets.FTP_REMOTE_PATH }} # Remote directory
+          local-dir: ./public 
+          server-dir: ${{ secrets.FTP_REMOTE_PATH }} 
