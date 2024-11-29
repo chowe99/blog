@@ -7,4 +7,6 @@ tags:
   - tag2
 ---
 
-### This is my first blog
+## Testing github action
+
+Hopefully this works
