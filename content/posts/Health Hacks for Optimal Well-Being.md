@@ -54,7 +54,6 @@ As parents, fostering healthy habits in your children from an early age can set 
 8. [High Carb/Processed Foods and Autism](#8-high-carbprocessed-foods-and-autism)
 9. [Lung Capacity as a Predictor of Longevity](#9-lung-capacity-as-a-predictor-of-longevity)
 10. [First Principles Thinking: Building a Lifelong Learner](#10-first-principles-thinking-building-a-lifelong-learner)
-11. [](#)
 
 ---
 
