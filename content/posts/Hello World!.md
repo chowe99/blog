@@ -6,5 +6,3 @@ tags:
   - tag1
   - tag2
 ---
-
-### This is my first blog

@@ -9,50 +9,12 @@
     <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blogtitle</title>
-      <link>/posts/action-test/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/action-test/</guid>
-      <description>Testing github action Hopefully this works
-it didn&amp;rsquo;t go so well
-okay take 3
-take 4&amp;hellip;
-take 5&amp;hellip;
-wtf is going on
-okay now i&amp;rsquo;m mad</description>
-      <content>&lt;h2 id=&#34;testing-github-action&#34;&gt;Testing github action&lt;/h2&gt;
-&lt;p&gt;Hopefully this works&lt;/p&gt;
-&lt;p&gt;it didn&amp;rsquo;t go so well&lt;/p&gt;
-&lt;p&gt;okay take 3&lt;/p&gt;
-&lt;p&gt;take 4&amp;hellip;&lt;/p&gt;
-&lt;p&gt;take 5&amp;hellip;&lt;/p&gt;
-&lt;p&gt;wtf is going on&lt;/p&gt;
-&lt;p&gt;okay now i&amp;rsquo;m mad&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>blogtitle</title>
-      <link>/posts/my-first-blog/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/my-first-blog/</guid>
-      <description>This is my first blog </description>
-      <content>&lt;h3 id=&#34;this-is-my-first-blog&#34;&gt;This is my first blog&lt;/h3&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>new blog</title>
-      <link>/posts/new-blog/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/new-blog/</guid>
-      <description>Will this work instead?
-Okay I think i finally got it&amp;hellip;</description>
-      <content>&lt;p&gt;Will this work instead?&lt;/p&gt;
-&lt;p&gt;Okay I think i finally got it&amp;hellip;&lt;/p&gt;
-</content>
+      <guid>/posts/hello-world/</guid>
+      <description></description>
+      <content></content>
     </item>
     
   </channel>
