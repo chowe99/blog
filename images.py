@@ -3,9 +3,9 @@ import re
 import shutil
 
 # Paths
-posts_dir = "/home/chow/blog/content/posts/"
-attachments_dir = "/home/chow/Documents/vault/Attached_Files/Pasted_Images/"
-static_images_dir = "/home/chow/blog/static/images/"
+posts_dir = "/mnt/nas/shared/blog/content/posts/"
+attachments_dir = "/mnt/nas/nextcloud/Cody/files/vault/Attached_Files/Pasted_Images/"
+static_images_dir = "/mnt/nas/shared/blog/static/images/"
 
 # Step 1: Process each markdown file in the posts directory
 for filename in os.listdir(posts_dir):
