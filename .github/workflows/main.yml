@@ -24,12 +24,12 @@ jobs:
           local-dir: ./ # The local directory to upload (current repo root)
           server-dir: ${{ secrets.FTP_REMOTE_PATH }} # Remote directory
 
-      # Delete the branch after successful deployment
-      - name: Delete branch limitless-hosting
-        if: ${{ github.ref_name == 'limitless-hosting' }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        run: |
-          echo "Deleting branch limitless-hosting"
-          gh api -X DELETE repos/${{ github.repository }}/git/refs/heads/limitless-hosting
+      # # Delete the branch after successful deployment
+      # - name: Delete branch limitless-hosting
+      #   if: ${{ github.ref_name == 'limitless-hosting' }}
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      #   run: |
+      #     echo "Deleting branch limitless-hosting"
+      #     gh api -X DELETE repos/${{ github.repository }}/git/refs/heads/limitless-hosting
 

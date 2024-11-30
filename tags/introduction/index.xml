@@ -13,12 +13,11 @@
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/posts/hello-world/</guid>
-      <description>Hello World! Welcome to my blog! This is my very first post, and I&amp;rsquo;m excited to start sharing my thoughts and experiences here.
+      <description>Welcome to my blog! This is my very first post, and I&amp;rsquo;m excited to start sharing my thoughts and experiences here.
 In this blog, you can expect content on:
 Technology Coding adventures Random musings Stay tuned for more updates!
 Thanks for stopping by. 😊</description>
-      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
-&lt;p&gt;Welcome to my blog! This is my very first post, and I&amp;rsquo;m excited to start sharing my thoughts and experiences here.&lt;/p&gt;
+      <content>&lt;p&gt;Welcome to my blog! This is my very first post, and I&amp;rsquo;m excited to start sharing my thoughts and experiences here.&lt;/p&gt;
 &lt;p&gt;In this blog, you can expect content on:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Technology&lt;/li&gt;
