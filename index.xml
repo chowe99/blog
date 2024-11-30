@@ -6,42 +6,28 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog 3</title>
+      <link>/posts/blog-3/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/blog-3/</guid>
+      <description>Hi there I&amp;rsquo;m now testing my automatic nextcloud pipeline okay i&amp;rsquo;ve cleared the permissions issue so it should work now okay take 3 okay take 4 take 5&amp;hellip; please&amp;hellip;</description>
+    </item>
     <item>
       <title>blogtitle</title>
       <link>/posts/action-test/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>/posts/action-test/</guid>
-      <description>&lt;h2 id=&#34;testing-github-action&#34;&gt;Testing github action&lt;/h2&gt;
-&lt;p&gt;Hopefully this works&lt;/p&gt;
-&lt;p&gt;it didn&amp;rsquo;t go so well&lt;/p&gt;
-&lt;p&gt;okay take 3&lt;/p&gt;
-&lt;p&gt;take 4&amp;hellip;&lt;/p&gt;
-&lt;p&gt;take 5&amp;hellip;&lt;/p&gt;
-&lt;p&gt;wtf is going on&lt;/p&gt;
-&lt;p&gt;okay now i&amp;rsquo;m mad&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;testing-github-action&#34;&gt;Testing github action&lt;/h2&gt;
-&lt;p&gt;Hopefully this works&lt;/p&gt;
-&lt;p&gt;it didn&amp;rsquo;t go so well&lt;/p&gt;
-&lt;p&gt;okay take 3&lt;/p&gt;
-&lt;p&gt;take 4&amp;hellip;&lt;/p&gt;
-&lt;p&gt;take 5&amp;hellip;&lt;/p&gt;
-&lt;p&gt;wtf is going on&lt;/p&gt;
-&lt;p&gt;okay now i&amp;rsquo;m mad&lt;/p&gt;
-</content>
+      <description>Testing github action Hopefully this works&#xA;it didn&amp;rsquo;t go so well&#xA;okay take 3&#xA;take 4&amp;hellip;&#xA;take 5&amp;hellip;&#xA;wtf is going on&#xA;okay now i&amp;rsquo;m mad</description>
     </item>
-    
     <item>
       <title>blogtitle</title>
       <link>/posts/my-first-blog/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>/posts/my-first-blog/</guid>
-      <description>&lt;h3 id=&#34;this-is-my-first-blog&#34;&gt;This is my first blog&lt;/h3&gt;</description>
-      <content>&lt;h3 id=&#34;this-is-my-first-blog&#34;&gt;This is my first blog&lt;/h3&gt;
-</content>
+      <description>This is my first blog </description>
     </item>
-    
   </channel>
 </rss>
