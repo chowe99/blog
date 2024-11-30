@@ -9,13 +9,6 @@
     <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog 3</title>
-      <link>/posts/blog-3/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/blog-3/</guid>
-      <description>Hi there I&amp;rsquo;m now testing my automatic nextcloud pipeline okay i&amp;rsquo;ve cleared the permissions issue so it should work now okay take 3 okay take 4 take 5&amp;hellip; please&amp;hellip; okay test 7 wtf is going on again&amp;hellip;</description>
-    </item>
-    <item>
       <title>blogtitle</title>
       <link>/posts/action-test/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
@@ -28,6 +21,13 @@
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/posts/my-first-blog/</guid>
       <description>This is my first blog </description>
+    </item>
+    <item>
+      <title>new blog</title>
+      <link>/posts/new-blog/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/new-blog/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
