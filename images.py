@@ -24,7 +24,7 @@ for filename in os.listdir(posts_dir):
             markdown_image = (
                 f"![Image Description](/images/{image.replace(' ', '%20')})"
             )
-            content = content.replace(f"[[{image}]]", markdown_image)
+            content = content.replace(f"![[{image}]]", markdown_image)
 
             # Step 4: Copy the image to the Hugo static/images directory if it exists
             image_source = os.path.join(attachments_dir, image)
