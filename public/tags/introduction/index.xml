@@ -16,7 +16,7 @@
       <description>Hello World! Welcome to my blog! This is my very first post, and I&amp;rsquo;m excited to start sharing my thoughts and experiences here.
 In this blog, you can expect content on:
 Technology Coding adventures Random musings Stay tuned for more updates!
-Let&amp;rsquo;s test an image: r u srs god please help me Thanks for stopping by. 😊</description>
+Thanks for stopping by. 😊</description>
       <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
 &lt;p&gt;Welcome to my blog! This is my very first post, and I&amp;rsquo;m excited to start sharing my thoughts and experiences here.&lt;/p&gt;
 &lt;p&gt;In this blog, you can expect content on:&lt;/p&gt;
@@ -26,10 +26,6 @@ Let&amp;rsquo;s test an image: r u srs god please help me Thanks for stopping by
 &lt;li&gt;Random musings&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Stay tuned for more updates!&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s test an image:
-r u srs
-god please help me
-&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241130102456.png&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Thanks for stopping by. 😊&lt;/p&gt;
 </content>
